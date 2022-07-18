@@ -104,7 +104,6 @@ abstract class ConversionCommandsUpstreamTestBase extends ConversionCommandsTest
             'imce',
             'field_group',
             'ctools',
-            'date',
             'pathauto',
             'google_analytics',
             'adminimal_theme',
